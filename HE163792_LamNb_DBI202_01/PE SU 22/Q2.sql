@@ -1,0 +1,1 @@
+﻿select * from OfficeAssignment where Location like '%Adams'

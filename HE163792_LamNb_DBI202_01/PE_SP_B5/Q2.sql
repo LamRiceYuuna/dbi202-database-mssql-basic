@@ -1,0 +1,1 @@
+﻿select * from types where name like 'D%' or name like 'S%'
